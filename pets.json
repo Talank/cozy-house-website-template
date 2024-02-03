@@ -1,0 +1,48 @@
+{
+  "pets": [
+    {
+      "id": 1,
+      "type": "Dog",
+      "age": 2,
+      "breed": "Labrador",
+      "location": "New York",
+      "name": "Buddy",
+      "gender": "Male",
+      "description": "Friendly and energetic. Great with kids.",
+      "image": "images/Dog.png"
+    },
+    {
+      "id": 2,
+      "type": "Cat",
+      "age": 1,
+      "breed": "Siamese",
+      "location": "California",
+      "name": "Whiskers",
+      "gender": "Female",
+      "description": "Shy but affectionate once she warms up to you.",
+      "image": "images/Woody.png"
+    },
+    {
+      "id": 3,
+      "type": "Dog",
+      "age": 4,
+      "breed": "German Shepherd",
+      "location": "Texas",
+      "name": "Max",
+      "gender": "Male",
+      "description": "Loyal and intelligent. Needs plenty of exercise.",
+      "image": "images/Jennifer.png"
+    },
+    {
+      "id": 4,
+      "type": "Cat",
+      "age": 3,
+      "breed": "Persian",
+      "location": "Florida",
+      "name": "Luna",
+      "gender": "Female",
+      "description": "Calm and loving. Prefers quiet environments.",
+      "image": "images/lKatrine.png"
+    }
+  ]
+}
