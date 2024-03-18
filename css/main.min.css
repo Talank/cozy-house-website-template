@@ -26,10 +26,6 @@ button {
     border: none;
 }
 
-a:hover {
-    background-color: rgba(122, 115, 79, 0.472);
-  }
-
 a,
 input[type="submit"],
 button {
